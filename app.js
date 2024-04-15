@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-const genAI = new GoogleGenerativeAI('AIzaSyC3z8gkGXX_t8KKpKGRzc5F12fp6yr6mOw');
+const genAI = new GoogleGenerativeAI('Paste your api key here');
 
 var app = Vue.createApp({
     data() {
